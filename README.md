@@ -2,7 +2,7 @@
 
     Teste
 
-[<img src="https://imgur.com/a/IVluNPm">]
+[<img src="https://i.imgur.com/kQLARxR.png">]
 <!--
 **Wexengos/Wexengos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
