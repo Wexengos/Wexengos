@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src=https://c.tenor.com/DEMBqNPqyccAAAAi/genkai.gif width="35"> # Under Construction! <img src=https://c.tenor.com/DEMBqNPqyccAAAAi/genkai.gif width="35">
+ # <img src=https://c.tenor.com/DEMBqNPqyccAAAAi/genkai.gif width="27"> Under Construction! <img src=https://c.tenor.com/DEMBqNPqyccAAAAi/genkai.gif width="27">
 
 <img src="https://i.imgur.com/kQLARxR.png">
 
