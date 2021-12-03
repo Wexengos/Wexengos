@@ -2,7 +2,7 @@
 
  # <img src=https://c.tenor.com/DEMBqNPqyccAAAAi/genkai.gif width="27"> Under Construction! <img src=https://c.tenor.com/DEMBqNPqyccAAAAi/genkai.gif width="27">
 
-<img src="https://i.imgur.com/kQLARxR.png" width="100">
+<img src="https://i.imgur.com/kQLARxR.png" width="250">
 
 --------------------------------------------------
 <!--
