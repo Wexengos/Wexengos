@@ -1,4 +1,3 @@
-### Hi there 👋
 
  # <img src=https://c.tenor.com/DEMBqNPqyccAAAAi/genkai.gif width="27"> Under Construction! <img src=https://c.tenor.com/DEMBqNPqyccAAAAi/genkai.gif width="27">
 
