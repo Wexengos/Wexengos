@@ -2,7 +2,7 @@
 
     Teste
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png">]
+[<img src="https://imgur.com/a/IVluNPm">]
 <!--
 **Wexengos/Wexengos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
