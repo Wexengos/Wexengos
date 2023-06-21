@@ -1,7 +1,12 @@
 
- # <img src=https://c.tenor.com/DEMBqNPqyccAAAAi/genkai.gif width="27"> Under Construction! <img src=https://c.tenor.com/DEMBqNPqyccAAAAi/genkai.gif width="27">
+ ## <img src=https://c.tenor.com/DEMBqNPqyccAAAAi/genkai.gif width="27"> Olá, eu sou o Nilmer! <img src=https://c.tenor.com/DEMBqNPqyccAAAAi/genkai.gif width="27">
+---
+🔭 Desenvolvedor Front-end, trabalhando atualmente com JavaScript e TypeScript (React).
 
-<img src="https://i.imgur.com/kQLARxR.png" width="330">
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+----
 
 --------------------------------------------------
 <!--
