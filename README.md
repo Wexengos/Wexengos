@@ -1,12 +1,10 @@
  ## <img src=https://c.tenor.com/DEMBqNPqyccAAAAi/genkai.gif width="27"> Hello, I'm Nilmer! <img src=https://c.tenor.com/DEMBqNPqyccAAAAi/genkai.gif width="27">
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=wexengos&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
-🔭 Front-End Developer, currently working with JavaScript and TypeScript (React/Node).
+🔭 Front-End Developer, currently working with JavaScript and TypeScript (React, Next.js/Node).
 
 ## Skills
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,express,sass,ts)](https://skillicons.dev)
 ----
 <!--
 **Wexengos/Wexengos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
