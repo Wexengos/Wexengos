@@ -2,9 +2,9 @@
 
 🔭 Front-End Developer, currently working with React in TypeScript.
 
-## Currently using
+## Currently working with
 [![My Skills](https://skillicons.dev/icons?i=react,ts,figma,sass)](https://skillicons.dev)
 
-## I also know
-[![My Skills](https://skillicons.dev/icons?i=js,vue,vuetify,nodejs,cpp,express,java,haskell)](https://skillicons.dev)
+## I also use
+[![My Skills](https://skillicons.dev/icons?i=js,vue,vuetify,nodejs,cpp,express,java,haskell,unity)](https://skillicons.dev)
 ----
